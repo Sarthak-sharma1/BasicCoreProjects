@@ -16,6 +16,7 @@ public class PrimeNumber {
       if (count==2){
           System.out.println("Prime Number");
       }else System.out.println("Error");
+
     }
 
 }
